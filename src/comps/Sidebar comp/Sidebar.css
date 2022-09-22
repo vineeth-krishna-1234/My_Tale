@@ -1,0 +1,13 @@
+#sidebar{
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    width: 15vw;
+    padding: 20px;
+    text-align: start;
+    position: sticky;
+    display: block;
+    height: 100vh;
+    border-right: 1px solid rgb(35, 35, 39);
+    
+}
